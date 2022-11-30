@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrasannakumarNair0
+- 👋 Hi, I’m Prasannakumar Nair
 - 👀 I’m interested in IOT application development
 - 🌱 I’m currently learning ... @Hilt, @stateFlow
 - 💞️ I’m looking to collaborate on :- Improving the apps for the betterment for society
